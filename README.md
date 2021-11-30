@@ -225,4 +225,7 @@ Though the above article covers several of the useful functions provided by the 
 
 Thank you!
 Source : https://www.gavick.com/blog/woocommerce-product-layout 
+woo : https://woocommerce.com/document/sample-products-loop/
+woo git : https://github.com/woocommerce/woocommerce/wiki/wc_get_products-and-WC_Product_Query#wc_product_query-methods
+
 
