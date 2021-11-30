@@ -224,8 +224,8 @@ Summary
 Though the above article covers several of the useful functions provided by the WC_Product class, but this is just scratching the surface of its potential. I encourage you to take the time to read through all the documentation available to ensure you have clear, up-to-date knowledge of the rest of the available fields and methods of this useful part of the WooCommerce plugin API.
 
 Thank you!
-Source : https://www.gavick.com/blog/woocommerce-product-layout 
-woo : https://woocommerce.com/document/sample-products-loop/
-woo git : https://github.com/woocommerce/woocommerce/wiki/wc_get_products-and-WC_Product_Query#wc_product_query-methods
+<br /> Source : https://www.gavick.com/blog/woocommerce-product-layout 
+<br /> woo : https://woocommerce.com/document/sample-products-loop/
+<br /> woo git : https://github.com/woocommerce/woocommerce/wiki/wc_get_products-and-WC_Product_Query#wc_product_query-methods
 
 
