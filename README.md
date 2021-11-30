@@ -227,5 +227,5 @@ Thank you!
 <br /> Source : https://www.gavick.com/blog/woocommerce-product-layout 
 <br /> woo : https://woocommerce.com/document/sample-products-loop/
 <br /> woo git : https://github.com/woocommerce/woocommerce/wiki/wc_get_products-and-WC_Product_Query#wc_product_query-methods
-
+<br /> woo shortcode: https://woocommerce.com/document/woocommerce-shortcodes/
 
