@@ -1,5 +1,10 @@
 # wooCommerce-DisplayProducts-php-loop
 wooCommerce Display Product PHP Loop
+# wooCommerce Development 
+<br /> https://woocommerce.com/document/introduction-to-hooks-actions-and-filters/ 
+<br /> https://woocommerce.github.io/code-reference/index.html
+<br /> https://woocommerce.github.io/code-reference/hooks/hooks.html
+<br /> https://woocommerce.github.io/woocommerce-rest-api-docs/#introduction
 
 Creating a WooCommerce product display layout for your WordPress theme
 LAST UPDATED: AUGUST 7TH, 2015 BY: GAVICKPRO TEAM PUBLISHED IN WORDPRESS
